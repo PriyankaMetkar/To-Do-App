@@ -1,0 +1,51 @@
+body{
+    background-color: #feae49;
+}
+
+.header{
+    background-color: #1e1e2a;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main{
+    padding-top: 70px;
+}
+.formDiv{
+    min-height: 400px;
+    width: 400px;
+    background-color: #3d424A;
+    border-radius: 10px;
+    padding: 40px;
+}
+#title{
+    margin-bottom: 15px;
+    height: 40px;
+}
+#desc{
+    margin-bottom: 45px;
+    height: 175px;
+}
+
+
+.toDoList{
+    background-color: #3d424A ;
+    width: 800px;
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 15px 30px;
+    color: white;
+}
+hr{
+    opacity: 80%;
+}
+.list{
+    font-size: 20px;
+}
+.delete{
+    width: 40px;
+}
+.task{
+    margin: 20px 0px;
+}
